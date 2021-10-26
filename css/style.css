@@ -1,0 +1,25 @@
+#picture{
+    min-height: 350px;
+    background: url(../img/pouring-acrylic-paint-60ml-bottles-set-of-32_D6X-iyJQ.jpg) no-repeat;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    color: white;
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+
+#picture h1{
+    margin-top: 0;
+    text-align: center;
+}
+
+.page-footer{
+    background-color: pink;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    border-left-color: black;
+}
+
